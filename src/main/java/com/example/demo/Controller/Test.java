@@ -1,4 +1,4 @@
 package com.example.demo.Controller;
 
-public class Test {111123
+public class Test {
 }
