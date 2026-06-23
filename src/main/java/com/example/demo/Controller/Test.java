@@ -1,4 +1,4 @@
 package com.example.demo.Controller;
 
-public class Test {
+public class Test {1
 }
