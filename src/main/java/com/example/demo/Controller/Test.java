@@ -4,5 +4,6 @@ public class Test {
     public void test(){
         String nice="hello world";
         System.out.println(nice);
+        撒大大大大大大大大大大大大
     }
 }
